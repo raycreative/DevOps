@@ -1,0 +1,7 @@
+
+	git commands to remove uncommited files. 
+	
+	git reset
+	git stash
+	git stash drop
+	git clean -fdx
